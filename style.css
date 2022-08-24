@@ -6,7 +6,7 @@ html {
 body {
     width: 100%;
     height: auto;
-    background: url('/day.jpg');
+    background: url('https://www.nasa.gov/sites/default/files/thumbnails/image/02_climate_iss064e006316.jpg');
     background-size: 100%;
     transition-duration: 0.4s;
 }
@@ -29,7 +29,7 @@ td {
 }
 
 .dark-mode {
-    background-image: url('night.jpg');
+    background-image: url('https://i.imgur.com/r70sBZc.jpg');
     background-size: 100%;
 }
 
